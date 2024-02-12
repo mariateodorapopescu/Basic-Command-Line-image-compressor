@@ -1,6 +1,4 @@
-# Image Compression and Decompression 📸✨
-
-**Note:** Some comments in the source code files are in Romanian.
+# Image Compression and Decompression
 
 ## Overview
 This project, marked as "v0" (first version), provides functions for reading, compressing, decompressing, and writing PPM image files. It introduces a unique approach to image compression using a tree structure, showcasing a novel perspective on handling pixel data.
@@ -38,5 +36,3 @@ This project, marked as "v0" (first version), provides functions for reading, co
 ## Important Notes
 - **Language:** Some comments and function descriptions are in Romanian.
 - **Version Warning:** This is the initial version ("v0") and may have limitations.
-
-Explore the fascinating world of image manipulation with this unique compression and decompression tool! 🌈🖼️ #ImageProcessing #CompressionMagic #CodeInnovation
